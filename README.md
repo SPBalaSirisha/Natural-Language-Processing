@@ -1,5 +1,5 @@
 # Natural-Language-Processing
 
-#### Naive Bayes
+#### Text Classification 
 #### N-gram Language Models and Hierarchical Clustering 
 #### POS Tagging
